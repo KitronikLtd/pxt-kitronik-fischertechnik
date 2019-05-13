@@ -1,0 +1,20 @@
+{
+    "name": "pxt-kitronik-fischertechnik",
+    "version": "1.0.0",
+    "description": "Blocks to simplify using Kitronik interface for fischertechnik in PXT",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "iff.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "calculateC.cpp"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
