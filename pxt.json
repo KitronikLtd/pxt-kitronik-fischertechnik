@@ -1,6 +1,6 @@
 {
     "name": "pxt-kitronik-fischertechnik",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Blocks to simplify using Kitronik interface for fischertechnik in PXT",
     "license": "MIT",
     "dependencies": {
